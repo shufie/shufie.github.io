@@ -1,11 +1,11 @@
-# shufie.github.io
+# Selamat datang!
 <html>
 <body>
 
 <div style="background-color:black;color:white;padding:20px;">
-  <h2>London</h2>
-  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+  <h2>Sufi Indha Akbari 16702251023</h2>
+  <p>You are responsible to what you had already decided, so when you are going to decide one thing, think about the risk to yourself and the impact to others.</p>
+  <p>Dirimu sendiri adalah yang bertanggungjawab terhadap apa yang kamu putuskan, oleh karena itu ketika kamu memutuskan sesuatu, fikirkan tentang resiko nya terhadap dirimu dan akibatnya terhadap orang lain.</p>
 </div> 
 
 </body>
