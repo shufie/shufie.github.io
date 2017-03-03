@@ -1,5 +1,4 @@
 # shufie.github.io
-<!DOCTYPE html>
 <html>
 <body>
 
