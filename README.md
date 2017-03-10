@@ -1,17 +1,3 @@
-<html lang="en-us">
-<head>
-<style>
-.city {
-   float: left;
-   margin: 10px;
-   padding: 10px;
-   max-width: 300px;
-   height: 300px;
-   border: 1px solid black;
-}   
-</style>
-</head>
-
 # Selamat datang!
 
 <div style="background-color:black;color:white;padding:20px;">
