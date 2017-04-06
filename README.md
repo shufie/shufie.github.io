@@ -24,5 +24,22 @@
   <p><center>Dirimu sendiri adalah yang bertanggungjawab terhadap apa yang kamu putuskan, oleh karena itu ketika kamu memutuskan sesuatu, fikirkan tentang resikonya terhadap dirimu dan akibatnya terhadap orang lain.</center></p>
 </div> 
 
+
+<html>
+<body>
+
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
 </body>
 </html>
+
