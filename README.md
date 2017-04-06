@@ -28,11 +28,11 @@
 <body>
 
 <form action="/action_page.php">
-  First name:<br>
+  Nama depan:<br>
   <input type="text" name="Nama depan" value="Ketik disini">
   <br>
-  Last name:<br>
-  <input type="text" name="Nama Belakang" value="Ketik disini">
+  Nama belakang:<br>
+  <input type="text" name="Nama belakang" value="Ketik disini">
   <br><br>
   <input type="submit" value="Daftar">
 </form> 
