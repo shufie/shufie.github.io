@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-us">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,12 +29,12 @@
 
 <form action="/action_page.php">
   First name:<br>
-  <input type="text" name="firstname" value="Mickey">
+  <input type="text" name="Nama depan" value="Ketik disini">
   <br>
   Last name:<br>
-  <input type="text" name="lastname" value="Mouse">
+  <input type="text" name="Nama Belakang" value="Ketik disini">
   <br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Daftar">
 </form> 
 
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
