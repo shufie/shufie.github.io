@@ -23,12 +23,74 @@
   <p><center>Dirimu sendiri adalah yang bertanggungjawab terhadap apa yang kamu putuskan, oleh karena itu ketika kamu memutuskan sesuatu, fikirkan tentang resikonya terhadap dirimu dan akibatnya terhadap orang lain.</center></p>
 </div> 
 
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
 
-<html>
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+
 <body>
 
-<p><a href="shufie.github.io/Form">Daftar disini</a></p>
+<div class="container">
+
+<header>
+   <h1>City Gallery</h1>
+</header>
+  
+<nav>
+  <ul>
+    <li><a href="#">London</a></li>
+    <li><a href="#">Paris</a></li>
+    <li><a href="#">Tokyo</a></li>
+  </ul>
+</nav>
+
+<article>
+  <h1>Form Entri Data Member PCMI Kalsel</h1>
+  <form action="/action_page.php">
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other<br><br>
+  
+</form> 
+</article>
+
+<footer>Copyright &copy; W3Schools.com</footer>
+
+</div>
 
 </body>
-</html>
-
