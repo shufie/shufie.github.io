@@ -27,17 +27,7 @@
 <html>
 <body>
 
-<form action="/action_page.php">
-  Nama depan:<br>
-  <input type="text" name="Nama depan" value="Ketik disini">
-  <br>
-  Nama belakang:<br>
-  <input type="text" name="Nama belakang" value="Ketik disini">
-  <br><br>
-  <input type="submit" value="Daftar">
-</form> 
-
-<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+<p><a href="shufie.github.io/Form">Daftar disini</a></p>
 
 </body>
 </html>
