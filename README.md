@@ -38,13 +38,6 @@ header, footer {
     text-align: center;
 }
 
-nav {
-    float: left;
-    max-width: 160px;
-    margin: 0;
-    padding: 1em;
-}
-
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -68,17 +61,9 @@ article {
 <div class="container">
 
 <header>
-   <h1>City Gallery</h1>
+   <h1>Form Database</h1>
 </header>
   
-<nav>
-  <ul>
-    <li><a href="#">London</a></li>
-    <li><a href="#">Paris</a></li>
-    <li><a href="#">Tokyo</a></li>
-  </ul>
-</nav>
-
 <article>
   <h1>Form Entri Data Member PCMI Kalsel</h1>
   <form action="/action_page.php">
@@ -89,8 +74,7 @@ article {
 </form> 
 </article>
 
-<footer>Copyright &copy; W3Schools.com</footer>
+<footer>shufie.indha@gmail.com</footer>
 
 </div>
-
 </body>
