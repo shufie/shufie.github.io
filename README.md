@@ -74,13 +74,14 @@ article {
 </form> 
 
 <form>
-  First name:<br>
-  <input type="text" name="Nama Depan">
+  Nama Depan:<br>
+  <input type="text" name="Ketik disini">
   <br>
-  Last name:<br>
-  <input type="text" name="Nama Belakang">
+  Nama Belakang:<br>
+  <input type="text" name="Ketik disini">
 </form>
 
+<br>Angkatan
 <form action="/action_page.php">
   <select name="Angkatan">
     <option value="80an">80an</option>
@@ -89,6 +90,7 @@ article {
     <option value="2010 keatas">2010 keatas</option>
   </select>
 
+<br>Alamat
 <form action="/action_page.php">
   <textarea name="message" rows="10" cols="30">Ketik disini</textarea>
   </form>
