@@ -74,18 +74,22 @@ article {
 </form> 
 </article>
 
-<footer>shufie.indha@gmail.com</footer>
+<form action="/action_page.php">
+  <select name="Angkatan">
+    <option value="volvo">80an</option>
+    <option value="saab">90an</option>
+    <option value="fiat">20an</option>
+    <option value="audi">2010 keatas</option>
+  </select>
 
 <form action="/action_page.php">
-  <select name="cars">
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-    <option value="fiat">Fiat</option>
-    <option value="audi">Audi</option>
-  </select>
+  <textarea name="message" rows="10" cols="30">Ketik disini</textarea>
+  </form>
+
+</form>
   <br><br>
   <input type="submit">
-</form>
 
 </div>
 </body>
+<footer>shufie.indha@gmail.com</footer>
