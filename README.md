@@ -61,7 +61,7 @@ article {
 <div class="container">
 
 <header>
-   <h1>Form Database</h1>
+   <h1>Database</h1>
 </header>
   
 <article>
@@ -75,6 +75,17 @@ article {
 </article>
 
 <footer>shufie.indha@gmail.com</footer>
+
+<form action="/action_page.php">
+  <select name="cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+  </select>
+  <br><br>
+  <input type="submit">
+</form>
 
 </div>
 </body>
