@@ -96,18 +96,15 @@ article {
 <form action="/action_page.php">
   <textarea name="message" rows="10" cols="30">Ketik disini</textarea>
   </form>
-
-  <br><br>
-  <input type="submit">
   
 <br>Kontak yang bisa dihubungi
 <br>
 <form action="/action_page.php">
-  <textarea name="message" rows="1" cols="30">08</textarea>
+  <textarea name="message" rows="1" cols="30">+6285</textarea>
   </form>
 
   <br><br>
-  <input type="submit">
+  <input type="Masukkan Data">
 
 </article>
 </div>
