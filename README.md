@@ -104,7 +104,7 @@ article {
   </form>
 
   <br><br>
-  <input type="Simpan">
+  <input type="Submit">
 
 </article>
 </div>
