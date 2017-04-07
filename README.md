@@ -68,11 +68,10 @@ article {
   <h1>Form Entri Data Member PCMI Kalsel</h1>
   <br>Jenis Kelamin
   <form action="/action_page.php">
-  <input type="radio" name="gender" value="Laki-laki" checked> Male<br>
-  <input type="radio" name="gender" value="Perempuan"> Female<br>
-  <input type="radio" name="gender" value="Lainnya"> Other<br><br>
-  
-</form> 
+  <input type="radio" name="gender" value="Laki-laki" checked> Laki-laki<br>
+  <input type="radio" name="gender" value="Perempuan"> Perempuan<br>
+  <input type="radio" name="gender" value="Lainnya"> Lainnya<br><br>
+  </form> 
 
 <form>
   Nama Depan:<br>
@@ -81,7 +80,7 @@ article {
   Nama Belakang:<br>
   <input type="text" name="Ketik disini">
 </form>
-
+<br>
 <br>Angkatan
 <form action="/action_page.php">
   <select name="Angkatan">
@@ -90,6 +89,7 @@ article {
     <option value="20an">20an</option>
     <option value="2010 keatas">2010 keatas</option>
   </select>
+  </form>
 
 <br>Alamat
 <br>
@@ -97,7 +97,6 @@ article {
   <textarea name="message" rows="10" cols="30">Ketik disini</textarea>
   </form>
 
-</form>
   <br><br>
   <input type="submit">
 
