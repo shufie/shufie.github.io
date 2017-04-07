@@ -72,14 +72,13 @@ article {
   <input type="radio" name="gender" value="other"> Other<br><br>
   
 </form> 
-</article>
 
 <form action="/action_page.php">
   <select name="Angkatan">
-    <option value="volvo">80an</option>
-    <option value="saab">90an</option>
-    <option value="fiat">20an</option>
-    <option value="audi">2010 keatas</option>
+    <option value="80an">80an</option>
+    <option value="90an">90an</option>
+    <option value="20an">20an</option>
+    <option value="2010 keatas">2010 keatas</option>
   </select>
 
 <form action="/action_page.php">
@@ -90,6 +89,7 @@ article {
   <br><br>
   <input type="submit">
 
+</article>
 </div>
 </body>
 <footer>shufie.indha@gmail.com</footer>
