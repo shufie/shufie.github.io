@@ -103,7 +103,7 @@ article {
 <br>Kontak yang bisa dihubungi
 <br>
 <form action="/action_page.php">
-  <textarea name="message" rows="10" cols="10">08</textarea>
+  <textarea name="message" rows="1" cols="30">08</textarea>
   </form>
 
   <br><br>
