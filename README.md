@@ -66,6 +66,7 @@ article {
   
 <article>
   <h1>Form Entri Data Member PCMI Kalsel</h1>
+  <br>Jenis Kelamin
   <form action="/action_page.php">
   <input type="radio" name="gender" value="Laki-laki" checked> Male<br>
   <input type="radio" name="gender" value="Perempuan"> Female<br>
