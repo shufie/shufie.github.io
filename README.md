@@ -67,11 +67,19 @@ article {
 <article>
   <h1>Form Entri Data Member PCMI Kalsel</h1>
   <form action="/action_page.php">
-  <input type="radio" name="gender" value="male" checked> Male<br>
-  <input type="radio" name="gender" value="female"> Female<br>
-  <input type="radio" name="gender" value="other"> Other<br><br>
+  <input type="radio" name="gender" value="Laki-laki" checked> Male<br>
+  <input type="radio" name="gender" value="Perempuan"> Female<br>
+  <input type="radio" name="gender" value="Lainnya"> Other<br><br>
   
 </form> 
+
+<form>
+  First name:<br>
+  <input type="text" name="Nama Depan">
+  <br>
+  Last name:<br>
+  <input type="text" name="Nama Belakang">
+</form>
 
 <form action="/action_page.php">
   <select name="Angkatan">
